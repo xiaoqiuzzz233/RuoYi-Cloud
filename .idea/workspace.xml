@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4134eac5-05dd-43e4-8a36-3878dc0e9c0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\study\environment\maven\apache-maven-3.6.3-bin\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../environment/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\study\environment\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="296jTDiuTzNDGzkAT0gmkYdEn8N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RuoYiSystemApplication">
+    <configuration name="RuoYiAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.auth.RuoYiAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuoYiFileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi-modules-file" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.file.RuoYiFileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuoYiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.gateway.RuoYiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuoYiGenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi-modules-gen" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.gen.RuoYiGenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuoYiJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi-modules-job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.job.RuoYiJobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuoYiMonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi-visual-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.modules.monitor.RuoYiMonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuoYiSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi-modules-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.system.RuoYiSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4134eac5-05dd-43e4-8a36-3878dc0e9c0b" name="Default Changelist" comment="" />
+      <created>1652440434900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652440434900</updated>
+      <workItem from="1652440439483" duration="3044000" />
+      <workItem from="1652492957309" duration="1818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="882" height="339" key="GridCell.Tab.0.bottom" timestamp="1652496000326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="339" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1652496000326" />
+    <state width="882" height="339" key="GridCell.Tab.0.center" timestamp="1652496000326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="339" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1652496000326" />
+    <state width="882" height="339" key="GridCell.Tab.0.left" timestamp="1652496000326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="339" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1652496000326" />
+    <state width="882" height="339" key="GridCell.Tab.0.right" timestamp="1652496000326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="339" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1652496000326" />
+    <state width="882" height="339" key="GridCell.Tab.1.bottom" timestamp="1652496000326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="339" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1652496000326" />
+    <state width="882" height="339" key="GridCell.Tab.1.center" timestamp="1652496000326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="339" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1652496000326" />
+    <state width="882" height="339" key="GridCell.Tab.1.left" timestamp="1652496000326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="339" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1652496000326" />
+    <state width="882" height="339" key="GridCell.Tab.1.right" timestamp="1652496000326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="339" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1652496000326" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ruoyi-auth/src/main/java/com/ruoyi/auth/RuoYiAuthApplication.java</url>
+          <line>16</line>
+          <properties class="com.ruoyi.auth.RuoYiAuthApplication" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
